@@ -1,0 +1,17 @@
+.center{
+    text-align: center;
+    color: orangered;
+    font-family: Arial;
+
+}
+.p{
+    font-size: 100px;
+    color: blue;
+}
+body{
+    background-image: url("_imagens/GilmoreGirls.jpg");
+}
+img{
+width: 800px;
+height: 800px;
+}

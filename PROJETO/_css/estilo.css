@@ -1,0 +1,17 @@
+.center{
+    text-align: center;
+    color: red;
+    font-family: Arial;
+
+}
+.p{
+    font-size: 50px;
+    color: blue;
+}
+body{
+    background-color: blueviolet;
+}
+img{
+width: 250px;
+height: 250px;
+}
